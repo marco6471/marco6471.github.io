@@ -3,7 +3,7 @@ p {
 }
 
 body {
-    	background-color: #222222;
+    	<body background="Tiedye.jpg"; background-size: 100% 100%;>
     	color: white;
 	}
 
